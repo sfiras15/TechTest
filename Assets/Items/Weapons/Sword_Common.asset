@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67b30cc112936864d8dd00edcb3810ff, type: 3}
+  m_Name: Sword_Common
+  m_EditorClassIdentifier: 
+  itemName: Sword_Common
+  nbOfInstances: 1
+  itemId: 22
+  itemIcon: {fileID: 21300000, guid: bd9c74b285862ad43b62f5e62d40d57b, type: 3}
+  usable: 1
+  itemType: 1
+  damage: 20
+  level: 1
+  type: 0
+  attackRange: 1.5
+  attackDuration: 1.05
+  staminaConsumption: 10
+  prefab: {fileID: 5610884078883986163, guid: 9fbe61d1f4bc091439f25f985dd189a5, type: 3}

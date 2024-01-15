@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8397e3cb74babb46944dc39bdda7d40, type: 3}
+  m_Name: Steraks
+  m_EditorClassIdentifier: 
+  itemName: Steraks
+  nbOfInstances: 1
+  itemId: 9666
+  itemIcon: {fileID: 21300000, guid: b30e559ad41ac6f4fb2066a8637d1edf, type: 3}
+  usable: 0
+  itemType: 2
+  healthBoost: 75
+  damageBoost: 20
+  speedBoost: 0
+  cost: 2
+  level: 0
+  components:
+  - {fileID: 11400000, guid: a154b7bf5704809449a43acf1938788a, type: 2}
+  - {fileID: 11400000, guid: 7c5685d4d25d7684f930172da801f119, type: 2}
